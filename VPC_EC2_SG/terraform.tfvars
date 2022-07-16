@@ -1,3 +1,6 @@
+// Este archivo no debería ser versionado, podría contener información sensible
+// Lo versiono a modo de ejemplo
+
 // Archivo de definción de variables...
 host_os = "MAC OS"
 
